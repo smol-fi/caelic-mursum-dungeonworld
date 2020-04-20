@@ -51,8 +51,8 @@ Tips:
 Gå igenom attributerna STR, DEX, CON, INT, WIS och CHA och tänk på vad din klass kan ha störst nytta av. Se på både gemensamma färdigheter samt valda klassens och rasens egna färdigheter och lägg ut attributer enligt vad du anser gagnar din karaktär mest.
 
 Efter att du lagt ut färdigheterna, räkna ut tärningsmodifieringarna enligt tabellen
-|:Poäng:|:Modifiering:|
-|-------|-------------|
+| Poäng | Modifiering |
+|:-----:|:-----------:|
 |1-3    |-3           |
 |4-7    |-2           |
 |6-8    |-1           |
