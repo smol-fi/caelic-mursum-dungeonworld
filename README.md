@@ -5,9 +5,9 @@ Dungeon World är ett rollspel menat för 4-6 personer (inklusive Game Master) v
 
 ## Viktiga länkar
 
-    - Dungeon World: [https://dungeon-world.com/](https://dungeon-world.com/)
-    - Litteratur om spelet på The Trove: [https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Dungeon%20World/](https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Dungeon%20World/)
-    - Video på YouTube om hur combat fungerar: 
-    [![How to play Dungeon World](https://img.youtube.com/vi/vZA54LQ9oMM/0.jpg)](https://www.youtube.com/watch?v=vZA54LQ9oMM)
+- Dungeon World: [https://dungeon-world.com/](https://dungeon-world.com/)
+- Litteratur om spelet på The Trove: [https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Dungeon%20World/](https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Dungeon%20World/)
+- Video på YouTube om hur combat fungerar: 
+[![How to play Dungeon World](https://img.youtube.com/vi/vZA54LQ9oMM/0.jpg)](https://www.youtube.com/watch?v=vZA54LQ9oMM)
 
 ## Combat
