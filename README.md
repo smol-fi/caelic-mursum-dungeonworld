@@ -1,5 +1,11 @@
 # Dungeon World resurser för Caelic Mursum TTRPG (WIP)
 
+### Innehåll
+[Vad är Dungeon World?](#vad-%C3%A4r-dungeon-world)  
+[Viktiga länkar](#viktiga-l%C3%A4nkar)  
+[Skapande av karaktär](#skapande-av-karakt%C3%A4r)  
+[Combat](#combat)
+
 ## Vad är Dungeon World?
 
 Dungeon World är ett rollspel menat för 4-6 personer (inklusive Game Master) vilket bryter många av reglerna man är van med vid traditionella fantasirollspel (Dungeons and Dragons, Pathfinder etc.). Den största skillnaden från andra rollspel är att spelarna är i fokus av fiktiva riktningen spelet tar, inte GM. GM är inte heller aktivt och rullar för attacker, spelarna rullar om hur mycket skada de mottar. Kärnan av spelet är 2st 6-sidiga tärningar (2d6), vilka bestämmer utkomsten av så gott som allting, mera om detta senare.
@@ -32,7 +38,7 @@ Tips:
 Combat (och mycket annat) fungerar med att rulla 2d6 och summa dem ihop, sedan tillägga karaktärens bonus enligt vad man kastat för. Exempelvis kan en Fighter ha +2 STR och använda gemensamma färdigheten *Hack & Slash* för att anfalla, spelaren rullar 2d6 med resultatet 9, nästan ett perfekt resultat! Då man tillägger karaktärens STR-bonus av +2 kommer man till resultatet 11, vilket garanterar ett perfekt resultat, vilket kan medföra fördelar, så som dekaptitulering eller skada till fler fiender på ett slag.
 
 Tips:
-> Många monster och karaktärer har en unik känsla till sig, fundera på i vilken situation du bäst kan utnyttja din karaktär, exempelvis kan en Fighter ha vapen med +1 damage (Serrated edges) samt *messy* och *forceful* (Huge) från vilka man väljer en per attack (här lönar det sig att vara kreativ med hur man beskriver sin attack!). Mera om dessa (samt andra) beskrivningar i spelbokens kapitel 18 (Equipment).
+> Många monster och karaktärer har en unik känsla till sig, fundera på i vilken situation du bäst kan utnyttja din karaktär, exempelvis kan en Fighter ha vapen med +1 damage (Serrated edges) samt *messy* och *forceful* (Huge). Här lönar det sig att vara kreativ med hur man beskriver sin attack!. Mera om dessa (samt andra) beskrivningar i spelbokens kapitel 18 (Equipment).
 
 Video på YouTube om hur combat fungerar:  
 [![How to play Dungeon World](https://img.youtube.com/vi/vZA54LQ9oMM/0.jpg)](https://www.youtube.com/watch?v=vZA54LQ9oMM)
