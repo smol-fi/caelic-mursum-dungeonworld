@@ -150,7 +150,7 @@ Combat (och mycket annat) fungerar med att slå 2d6 och summa dem ihop, sedan ti
 
 **Grundläggande resultat av tärningskast**
 | Kast  | Resultat                                                                                |
-| :---: | :-------------------------------------------------------------------------------------: |
+| :---: | :-------------------------------------------------------------------------------------- |
 | 10+   | Målet åstadskoms utan problem, perfekt resultat                                         |
 | 7-9   | Målet åstadskom, med svårigheter eller oavsiktliga konsekvenser                         |
 | 6-    | Delvis eller total misslyckan, GM bestämmer händelsen och karaktären växer i erfarenhet |
