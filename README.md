@@ -149,9 +149,9 @@ Tips:
 Combat (och mycket annat) fungerar med att slå 2d6 och summa dem ihop, sedan tillägga karaktärens bonus enligt vad man kastat för. Varje gång 2d6 slås, räknas det som ett drag. Då man räknar summan av 2d6, lägger man till karaktärens modifierare av relaterande sort till tärningskastet för att få dragets resultat. Tärningskast resulterar i huvudsak (men inte alltid) enligt ett system av tre oliga alternativ varav mellersta alternativet är det vanligaste.
 
 **Grundläggande resultat av tärningskast**  
-| 10+ | Målet åstadskoms utan problem, perfekt resultat                                         |
-| 7-9 | Målet åstadskom, med svårigheter eller oavsiktliga konsekvenser                         |
-| 6-  | Delvis eller total misslyckan, GM bestämmer händelsen och karaktären växer i erfarenhet |
+| 10+                                             | 7-9                                                             | 6-                                                                                      |
+|-------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Målet åstadskoms utan problem, perfekt resultat | Målet åstadskoms med svårigheter eller oavsiktliga konsekvenser | Delvis eller total misslyckan, GM bestämmer händelsen och karaktären växer i erfarenhet |
 
 Notera att vid misslyckade resultat belönas karaktären med erfarenhet, alltså är det huvudsakliga sättet att förbättra sin förmåga.
 
