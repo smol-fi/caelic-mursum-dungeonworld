@@ -1,4 +1,4 @@
-# Dungeon World resurser för Caelic Mursum TTRPG (WIP)
+# Dungeon World resurser och information för spelare av Caelic Mursum TTRPG (WIP)
 
 #### Innehåll
 [Vad är Dungeon World?](#vad-%C3%A4r-dungeon-world)  
@@ -152,10 +152,10 @@ Combat (och mycket annat) fungerar med att slå 2d6 och summa dem ihop, sedan ti
 | Kast  | Resultat                                                                                |
 | :---: | :-------------------------------------------------------------------------------------- |
 | 10+   | Målet åstadskoms utan problem, perfekt resultat                                         |
-| 7-9   | Målet åstadskoms, med svårigheter eller oavsiktliga konsekvenser                         |
+| 7-9   | Målet åstadskoms med svårigheter eller oavsiktliga konsekvenser                         |
 | 6-    | Delvis eller total misslyckan, GM bestämmer händelsen och karaktären växer i erfarenhet |
 
-Notera att vid misslyckade resultat belönas karaktären med erfarenhet, alltså är det huvudsakliga sättet att förbättra sin förmåga.
+Notera att vid misslyckade resultat belönas karaktären med erfarenhet, vilket är det huvudsakliga sättet att förbättra sin förmåga.
 
 Exempelvis kan en Fighter ha +2 STR och använda gemensamma färdigheten *Hack & Slash* för att anfalla, spelaren rullar 2d6 med resultatet 9, nästan ett perfekt resultat! Då man tillägger karaktärens STR-bonus av +2 kommer man till resultatet 11, vilket garanterar ett perfekt resultat. Ett perfekt resultat kan medföra fördelar, så som dekaptitulering eller skada till fler fiender på ett slag.
 
