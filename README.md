@@ -4,7 +4,7 @@
 [Vad är Dungeon World?](#vad-%C3%A4r-dungeon-world)  
 [Viktiga länkar](#viktiga-l%C3%A4nkar)  
 [Skapande av karaktär](#skapande-av-karakt%C3%A4r)  
-[Combat](#combat)
+[Speldrag](#speldrag)
 
 ## Vad är Dungeon World?
 
@@ -49,7 +49,7 @@ Många klasser och raser kräver att något åtskiljer karaktären från en män
 Tips:
 > Detta är ett ypperligt tillfälle att komma på svagheter eller intressanta drag karaktären kan inneha. Skapa aldrig en odödlig superhjälte, de är tråkiga! Tänk på hur din karaktär kan bygga en stark personlighet som skiner igenom i dialog och gärningar i fiktionen! 
 
-## 3. Välj attributer och lägg ut tärningsmodifieringarna
+### 3. Välj attributer och lägg ut tärningsmodifieringarna
 
 Gå igenom attributerna STR, DEX, CON, INT, WIS och CHA och tänk på vad din klass kan ha störst nytta av. Se på både gemensamma färdigheter samt valda klassens och rasens egna färdigheter och lägg ut attributer enligt vad du anser gagnar din karaktär bäst.
 
@@ -65,15 +65,15 @@ Efter att du lagt ut färdigheterna, räkna ut tärningsmodifieringarna enligt u
 |16-17  |+2           |
 |18     |+3           |
 
-## 4. Räkna ut karaktärens maximala hälsa
+### 4. Räkna ut karaktärens maximala hälsa
 
 Attributet CON används för att räkna ut maximala hälsan med formeln bashälsa+CON. Bashälsan ligger på karaktärbladet nära fältet för maximal hälsa.
 
-## 5. Välj karaktärens startfärdigheter
+### 5. Välj karaktärens startfärdigheter
 
 Några av karaktärerna måste välja en eller fler startfärdigheter. Om alla startfärdigheter är ikryssade utan tilläggsval, kan man övergå till nästa steg. Några klasser (t.ex. Wizard) måste välja magi eller andra färdigheter vilken den börjar med, även detta görs nu.
 
-## 6. Välj anslutning
+### 6. Välj anslutning
 
 Karaktärer har alla någon slags motiv baserat på sin anslutning. Att uppfylla motivet ger erfarenhet, vilket ger högre erfarenhetsnivå. Tänk på vad din karaktär har för anslutning och hur det gör den intressant, tänk både på tidigare gjorda val samt och personlighetsdrag samt på framtiden och hur karaktärens anslutning kan skapa djupare fiktion.
 
