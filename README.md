@@ -8,7 +8,7 @@
 
 ## Vad är Dungeon World?
 
-Dungeon World är ett rollspel menat för 4-6 personer (inklusive Game Master) vilket bryter många av reglerna man är van med vid traditionella fantasirollspel (Dungeons and Dragons, Pathfinder etc.). Den största skillnaden från andra rollspel är att spelarna är i fokus av fiktiva riktningen spelet tar, inte GM. GM är inte heller aktivt och rullar för attacker, spelarna rullar om hur mycket skada de mottar. Kärnan av spelet är 2st 6-sidiga tärningar (2d6), vilka bestämmer utkomsten av så gott som allting, mera om detta senare.
+Dungeon World är ett rollspel menat för 4-6 personer (inklusive Game Master) skapat av Sage LaTorra och Adam Koebel, först publicerat 2012. Dungeon World bryter många av reglerna man är van med från mer traditionella fantasirollspel (Dungeons and Dragons, Pathfinder m.m.). De största skillnaderna från andra rollspel är att spelarna är i fokus av fiktiva riktningen spelet tar, inte GM samt att GM inte heller aktivt spelar och rullar för attacker, utan spelarna rullar om hur mycket skada de mottar. I spelets fokus fungerar spelarnas skapade fiktion, samt 2st 6-sidiga tärningar (2d6), vilka bestämmer utkomsten av så gott som allting, mera om detta senare.
 
 Många av spelets aspekter är dock bekanta från andra rollspel, men ofta fungerar på simplifierat eller helt enkelt annat sätt. Karaktärer har olika attributer: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS) och Charisma (CHA). Attributerna används för att modifiera resultat av tärningskast baserat på vad karaktären viljat åstadkomma samt **hur** den viljat åstadkomma det. Mera om dessa senare. Olika kast ses både i karaktärernas egna klassfärdigheter samt gemensamma färdigheterna. Allt som oftast kommer karaktärer använda gemensamma färdigheter, förutom om spelaren anser att en klassfärdighet vore mer fördelaktigt.
 
@@ -29,6 +29,9 @@ Spelet spelas utan egentliga turer, utan karaktärer får avbryta händelser nä
 På grund av både nyfunna möjligheter samt begränsningar på grund av andra spelares val, skapas karaktärerna som en gruppaktivitet under första spelsessionen. Genom varje steg turar spelarna om att göra sitt val och först då alla är nöjda fortsätter man som grupp till nästa steg.
 
 Stegen är inte direkt logist arrangerade på karaktäsbladen i spelboken, utan karaktärsbladen är snarare designade för att senare vara lätta att granska. Därför är det viktigt att följa stegen i ordning för att försäkra fördjupade och intressanta karaktärer.
+
+Tips:
+> Karaktären vet sällan allt spelaren vet! Då du hör aspekter om andra spelares karaktärer före spelet börjat, fundera på att din karaktär kanske aldrig träffat dem förr.
 
 ### 1. Välj klass, ras och namn
 
@@ -72,17 +75,91 @@ Några av karaktärerna måste välja en eller fler startfärdigheter. Om alla s
 
 ## 6. Välj anslutning
 
-Karaktärer har alla någon slags motiv. Att uppfylla motivet ger erfarenhet, vilket ger högre erfarenhetsnivå. Tänk på vad din karaktär har för anslutning och hur det gör den intressant, tänk både på tidigare gjorda val samt och personlighetsdrag samt på framtiden och hur karaktärens anslutning kan skapa djupare fiktion.
-
-Då en karaktär uppfyllt sitt anslutningsmål under sessionen, får karaktären en erfarenhetspoäng i slutet av sessionen. Karaktärer kan alltid byta anslutning om spelaren anser att karaktärens världsbild ändrat tillräckligt för att ha blivit konverterad till en annan anslutning.
-
-## Combat
-
-Combat (och mycket annat) fungerar med att rulla 2d6 och summa dem ihop, sedan tillägga karaktärens bonus enligt vad man kastat för. Exempelvis kan en Fighter ha +2 STR och använda gemensamma färdigheten *Hack & Slash* för att anfalla, spelaren rullar 2d6 med resultatet 9, nästan ett perfekt resultat! Då man tillägger karaktärens STR-bonus av +2 kommer man till resultatet 11, vilket garanterar ett perfekt resultat, vilket kan medföra fördelar, så som dekaptitulering eller skada till fler fiender på ett slag.
+Karaktärer har alla någon slags motiv baserat på sin anslutning. Att uppfylla motivet ger erfarenhet, vilket ger högre erfarenhetsnivå. Tänk på vad din karaktär har för anslutning och hur det gör den intressant, tänk både på tidigare gjorda val samt och personlighetsdrag samt på framtiden och hur karaktärens anslutning kan skapa djupare fiktion.
 
 Tips:
-> Många monster och karaktärer har en unik känsla till sig, fundera på i vilken situation du bäst kan utnyttja din karaktär, exempelvis kan en Fighter ha vapen med +1 damage (Serrated edges) samt *messy* och *forceful* (Huge). Här lönar det sig att vara kreativ med hur man beskriver sin attack!. Mera om dessa (samt andra) beskrivningar i spelbokens kapitel 18 (Equipment).
+> Karaktärer medger sellan att de är t.ex. elaka, utan istället sätter sig själv före så gott som alla andra, utan att bry sig om konsekvenser. Tänk på att sömlöst och naturligt skapa fiktion med inflytande av karaktärens anslutning.
 
-Video på YouTube om hur combat fungerar:  
+Då en karaktär uppfyllt sitt anslutningsmål under sessionen, får karaktären erfarenhet och belönas med erfarenhetspoäng i slutet av sessionen. Då karaktären uppfyllt sitt mål, kan spelaren antingen välja nytt mål bland de färdiga målen eller komma på ett eget som passar karaktärens anslutning.
+
+Karaktärer kan alltid byta anslutning om spelaren anser att karaktärens världsbild ändrat tillräckligt för att ha blivit konverterad till en annan anslutning, då GM konsulteras om möjlighet att utföra detta.
+
+Karaktärer kan även byta sitt motiv inom sin existerande anslutning vid mildare ändringar av personlighet, vilket reflekterar en ändring i prioriteringar hellre än total konversion av karaktärens tankesätt.
+
+### Anslutningar och motivexempel i Dungeon World
+
+Dessa listor är inte bara exempel på motiv, utan även beskrivningar av de olika anslutningarnas unika drag. Dragen är dock inte slagna i sten, utan även de formas av fiktionen skapad av spelarna.
+
+#### Rättslig
+* Uppehåll landets lag över det andliga
+* Uppfyll ett viktigt löfte eller kontrakt
+* Ställ någon in för rätta
+* Välj heder och ära över personlig vinst
+* Återlämna rikedom till sin rättmätiga ägare
+
+#### God
+* Hjälp någon annan trots hotande fara
+* Vägled andra till rättmätigt slag
+* Offra kraft eller rikedom för allmänhetens bästa
+* Avslöja en farlig lögn
+* Visa barmhärtighet
+
+#### Neutral
+* Alliera dig med någon mäktig
+* Åstadkom en personligen viktig vinst
+* Lär dig en hemlighet om din fiende
+* Upptäck en dåld sanning
+
+#### Kaotisk
+* Avslöja korruption
+* Bryt emot en orättvis lag för någon annans nytta
+* Besegra en tyrann
+* Avslöja skenhelighet
+* Skapa uppror för att motstå tyranni
+
+#### Elak
+* Utnyttja någon trots dess förtroende
+* Orsaka lidande bara för att
+* Förstör något vackert eller viktigt
+* Upprör den rättmätiga ordningen
+* Orsaka skada till en oskyldig
+
+Alla klasser förutom Thief måste välja mellan att inte berätta om sin anslutning för andra spelare, GM eller andra varelser eller berätta antingen hela eller halva sanningen, medan Thief får säga vad de vill. Senare kan karaktären välja att berätta om sina motiv och anslutningar i egen takt. Att vägra berätta för någon om sina motiv eller att avslöjas som lögnare kan ha ofördelaktiga följder med tanke på karaktärens pålitlighet inför andra.
+
+### 7. Introducera dig själv för andra spelare och GM
+
+Efter att alla kommit så långt, är det dags att introducera sin karaktär inför andra spelare och GM. Berätta om hur din karaktär ser ut, vem den är och vilken klass du valt samt allt annat viktigt för att alla skall lära känna din karaktär som *din karaktär*. Introduktionen kan avbrytas av GM vid ställen för följdfrågor, t.ex. om karaktären träffat någon annans karaktär förr, samt om karaktären själv vet om anknytningar till andra karaktärer eller andra aspekter av fiktionen.
+
+Detta skede kan verka onödigt, men resulterar ofta i fördjupad fiktion gällande karaktären.
+
+### 8. Välj anknytningar
+
+Då alla bekantat sig med karaktärerna, är det dags att välja anknytningar. Alla måste välja minst en anknytning, men bästa resultat nås om man fyller i flera. Samma karaktär får användas i fler än en anknytning.
+
+Tips:
+> Anknytningarnas viktighet och inflytande måste inte uppenbara sig genast, utan de kan manifestera senare då fiktionen utvecklats längre.
+
+Diskutera och resonera anknytningarna med GM och andra spelare och fundera på hur större anknytningar påverkar hur din karaktär betraktar andra.
+
+Tips:
+> Anknytningar måste inte vara permanenta, många av dem fungerar liknande till motiv och spelare belönas med erfarenhet då motivet lösts upp.
+
+## Speldrag
+
+Combat (och mycket annat) fungerar med att slå 2d6 och summa dem ihop, sedan tillägga karaktärens bonus enligt vad man kastat för. Varje gång 2d6 slås, räknas det som ett drag. Då man räknar summan av 2d6, lägger man till karaktärens modifierare av relaterande sort till tärningskastet för att få dragets resultat. Tärningskast resulterar i huvudsak (men inte alltid) enligt ett system av tre oliga alternativ varav mellersta alternativet är det vanligaste.
+
+**Grundläggande resultat av tärningskast**  
+| 10+ | Målet åstadskoms utan problem, perfekt resultat                                         |
+| 7-9 | Målet åstadskom, med svårigheter eller oavsiktliga konsekvenser                         |
+| 6-  | Delvis eller total misslyckan, GM bestämmer händelsen och karaktären växer i erfarenhet |
+
+Notera att vid misslyckade resultat belönas karaktären med erfarenhet, alltså är det huvudsakliga sättet att förbättra sin förmåga.
+
+Exempelvis kan en Fighter ha +2 STR och använda gemensamma färdigheten *Hack & Slash* för att anfalla, spelaren rullar 2d6 med resultatet 9, nästan ett perfekt resultat! Då man tillägger karaktärens STR-bonus av +2 kommer man till resultatet 11, vilket garanterar ett perfekt resultat. Ett perfekt resultat kan medföra fördelar, så som dekaptitulering eller skada till fler fiender på ett slag.
+
+Tips:
+> Många monster och karaktärer har en unik känsla till sig, fundera på i vilken situation du bäst kan utnyttja din karaktär, exempelvis kan en Fighter ha vapen med +1 damage (Serrated edges) samt *messy* och *forceful* (Huge). Här lönar det sig att vara kreativ med hur man beskriver sin attack! Mer om dessa (samt andra) beskrivningar i spelbokens kapitel 18 (Equipment).
+
+Video på YouTube om hur speldrag fungerar:  
 [![How to play Dungeon World](https://img.youtube.com/vi/vZA54LQ9oMM/0.jpg)](https://www.youtube.com/watch?v=vZA54LQ9oMM)
 
